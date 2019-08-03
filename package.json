@@ -1,0 +1,30 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saenket/eg.git"
+  },
+  "author": "Sanket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saenket/eg/issues"
+  },
+  "homepage": "https://github.com/saenket/eg#readme",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.3",
+    "popper.js": "^1.15.0"
+  },
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}
